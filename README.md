@@ -1,18 +1,18 @@
 ![Banner BCC](https://github.com/FE-BCC/Freepass-FE-2024/assets/107536877/bf5f781c-f369-4b24-bf71-4f440ca2d23c)
 # Freepass-FE-2025
 
-## 💡 What is BCC Freepas?
-BCC Freepas is a part of the BCC open recruitment for all of you who want to be a part of the Frontend department through a free pass challenge. We maintain a high standard for this challenge. Why? Because participants who successfully pass this challenge will instantly become a part of BCC. So, make sure to submit your best work! 😼
+## 💡 What is BCC Freepass?
+BCC Freepass is a part of the BCC open recruitment for all of you who want to be a part of the Frontend department through a free pass challenge. We maintain a high standard for this challenge. Why? Because participants who successfully pass this challenge will instantly become a part of BCC. So, make sure to submit your best work! 😼
 
 ## 🎯 Challenge
 To pass this free pass selection, you must complete one of the following challenges properly according to the requested criteria (Multi-Platform).
+
+---
 
 # 📱 Flutter Multi-Platform Technical Challenge
 
 ## 🎯 Objective
 Develop a robust multi-platform application using **Flutter** that demonstrates proficiency in data management, API integration, and clean architecture.
-
----
 
 ## 🚀 Technical Requirements
 
@@ -29,8 +29,10 @@ Develop a robust multi-platform application using **Flutter** that demonstrates 
 
 ### 3. User Interface (UI/UX)
 While original UI design is not mandatory, the app should be polished and intuitive. You may use references from:
-* [Dribbble](https://dribbble.com/) / [Behance](https://www.behance.net/)
-* [Mobbin](https://mobbin.com/) / [Screenlane](https://screenlane.com/)
+* [Dribbble](https://dribbble.com/)
+* [Behance](https://www.behance.net/)
+* [Mobbin](https://mobbin.com/)
+* [Screenlane](https://screenlane.com/)
   
 #### Bonus Point
 * Implement complex animations
