@@ -1,5 +1,5 @@
 ![Banner BCC](https://github.com/FE-BCC/Freepass-FE-2024/assets/107536877/bf5f781c-f369-4b24-bf71-4f440ca2d23c)
-# Freepass-FE-2025
+# Freepass-FE-2026
 
 ## 💡 What is BCC Freepass?
 BCC Freepass is a part of the BCC open recruitment for all of you who want to be a part of the Frontend department through a free pass challenge. We maintain a high standard for this challenge. Why? Because participants who successfully pass this challenge will instantly become a part of BCC. So, make sure to submit your best work! 😼
@@ -43,7 +43,7 @@ While original UI design is not mandatory, the app should be polished and intuit
 1. [Fork this repository on GitHub](https://help.github.com/articles/fork-a-repo) then do the following:
     * Setup an [Upstream remote](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork
 ) to this repository
-      `https://github.com/Vincent140206/Freepass-FE-Mobile-2025`.
+      `https://github.com/Vincent140206/Freepass-FE-Mobile-2026`.
     * [Sync your fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork) with the upstream.
 2. Clone your fork of the repository to your local computer.
 3. Create a branch with a descriptive name to work (i.e., `git checkout -b your-name`).
