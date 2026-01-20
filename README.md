@@ -33,3 +33,10 @@ Make an application with requirements as below:
 5. [Submit a pull request](https://help.github.com/articles/using-pull-requests) to the main branch.
 6. Please leave your identity such as name and NIM in your Pull Request
 7. After submit Pull Request, please fill your identity at this [form](https://bit.ly/FormFreepassFE-BCC2024). We will contact you ASAP for the interview session
+
+## 📁 Submission Convention
+1. Project submitted must be your own work.
+2. Follow the accepted naming conventions for your language/framework.
+3. Follow the accepted naming file and directory structure for your language/framework.
+4. No comments/unused code/unused file/unused folder must ever be checked in.
+5. Use `.gitignore`.
