@@ -7,21 +7,37 @@ BCC Freepas is a part of the BCC open recruitment for all of you who want to be 
 ## 🎯 Challenge
 To pass this free pass selection, you must complete one of the following challenges properly according to the requested criteria (Multi-Platform).
 
-### ⭐📱 Challenge (Multi Platform - Flutter)
-Make an application with requirements as below:
-- Application should perform CRUD operations (Create, Read, Update, Delete).
-- Implement Local Storage.
-- Implement State Management.
-- Implement an API call (POST/GET/DELETE/PUT)
-- Implement error handling
-  - You can use a [public API](https://github.com/public-apis/public-apis) or make your own it doesn't affect our scoring. The key factor in evaluation is how you handle the given data, so keep that in mind while working
-- The design of the Application does not have to be your own design, You may take references from the internet [Dribbble](https://dribbble.com/following) | [Behance](https://www.behance.net/) | [Mobbin](https://mobbin.com/browse/ios/apps) | [Screenlane](https://screenlane.com/)
+# 📱 Flutter Multi-Platform Technical Challenge
+
+## 🎯 Objective
+Develop a robust multi-platform application using **Flutter** that demonstrates proficiency in data management, API integration, and clean architecture.
+
+---
+
+## 🚀 Technical Requirements
+
+### 1. Core Functionality
+* **CRUD Operations**: The app must successfully execute **Create, Read, Update, and Delete** actions.
+* **State Management**: Implement a scalable state management solution (e.g., Provider, Bloc, Riverpod, or GetX).
+* **Local Persistence**: Integrate **Local Storage** (e.g., Hive, SQLite, or SharedPreferences) to ensure data remains available offline.
+
+### 2. Networking & Data
+* **API Integration**: Perform RESTful API calls using methods such as `GET`, `POST`, `PUT`, and `DELETE`.
+* **Error Handling**: Implement comprehensive logic to manage exceptions, such as network timeouts, API errors, and empty states.
+* **Data Source**: You are free to use any [Public API](https://github.com/public-apis/public-apis) or your own custom backend. 
+    > **Note:** Evaluation focuses on your data handling logic and architecture rather than the API source itself.
+
+### 3. User Interface (UI/UX)
+While original UI design is not mandatory, the app should be polished and intuitive. You may use references from:
+* [Dribbble](https://dribbble.com/) / [Behance](https://www.behance.net/)
+* [Mobbin](https://mobbin.com/) / [Screenlane](https://screenlane.com/)
+  
 #### Bonus Point
 * Implement complex animations
 * Add theme switching (e.g., light/dark mode)
 * Ensure a responsive layout across screen sizes
 
-## 📝 Submission Guidline
+## 📝 Submission Guideline
 1. [Fork this repository on GitHub](https://help.github.com/articles/fork-a-repo) then do the following:
     * Setup an [Upstream remote](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork
 ) to this repository
@@ -31,7 +47,7 @@ Make an application with requirements as below:
 3. Create a branch with a descriptive name to work (i.e., `git checkout -b your-name`).
 4. Make changes, commit them, and push the branch to your repository fork.
 5. [Submit a pull request](https://help.github.com/articles/using-pull-requests) to the main branch.
-6. Please leave your identity such as name and NIM in your Pull Request
+6. Please leave your identity such as name and NIM in your Pull Request (Mandatory!)
 7. After submit Pull Request, please fill your identity at this [form](https://bit.ly/FormFreepassFE-BCC2024). We will contact you ASAP for the interview session
 
 ## 📁 Submission Convention
